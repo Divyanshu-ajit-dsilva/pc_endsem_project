@@ -1,0 +1,21 @@
+SAMPLE INPUT:
+
+Enter the number of elements in the tree:
+7
+Enter the elements:
+40
+30
+50
+25
+35
+45
+60
+
+SAMPLE OUTPUT:
+
+Pre-Order Display:
+40      30      25      35      50      45      60
+In-Order Display:
+25      30      35      40      45      50      60
+Post-Order Display:
+25      35      30      45      60      50      40
