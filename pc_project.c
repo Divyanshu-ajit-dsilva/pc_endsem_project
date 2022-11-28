@@ -108,12 +108,12 @@ void main()
     }    
     
     /* Printing nodes of tree */
-    printf("\nPre-Order Display\n");
+    printf("\nPre-Order Display:\n");
     print_preorder(root);
 
-    printf("\nIn-Order Display\n");
+    printf("\nIn-Order Display:\n");
     print_inorder(root);
 
-    printf("\nPost-Order Display\n");
+    printf("\nPost-Order Display:\n");
     print_postorder(root);
 }
